@@ -1,12 +1,7 @@
-# Elevation
+# Quotes from Audre Lorde - an elevated card effect
 
----
+## Kurs-Modul 1 - UserInterfaceBasics (UIB) - HTML/CSS
 
-Recreate this elevated card effect:
+solved exercise: using CSS properties for creating an 3D effect and color gradient
 
-![Example](example.png)
-
-- Which CSS properties do we need to create the 3D effect and color gradient?
-- Work in the existing `index.html` file.
-- Attempt to make it as pixel-perfect as possible.
-- Have fun!
+13.09.2022
